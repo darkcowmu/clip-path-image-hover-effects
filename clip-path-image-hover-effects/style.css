@@ -36,5 +36,47 @@ body{
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
 }
 .container .box:nth-child(1):hover ~ .box:nth-child(2){
-  clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+  clip-pa/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
+}
+
+/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
+}
+
+/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
+}
+
+/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
+}
+th: polygon(0 0, 100% 0, 100% 0, 0 0);
+}/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
 }
